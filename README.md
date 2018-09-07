@@ -3,16 +3,9 @@ AnimalityCoin development tree
 
 AnimalityCoin is a PoS-based cryptocurrency.
 
-
-
-
-
-
-
-
-
-
 ===========================
+
+
 Blockchain properties
 
 Compiling OS   Ubuntu 18.04 LTS
