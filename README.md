@@ -3,30 +3,39 @@ AnimalityCoin development tree
 
 AnimalityCoin is a PoS-based cryptocurrency.
 
-Development process
+
+
+
+
+
+
+
+
+
 ===========================
+Blockchain properties
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+Compiling OS   Ubuntu 18.04 LTS
+Algorithm   Scrypt
+Type    PoW/PoS
+Coin name   AnimalityCoin
+Coin abbreviation  ANTY
+Address letter   A
+RPC port   41590
+P2P port   41589
+Block reward   100 coins
+Coin supply   285000000 coins
+Premine amount   35000000 coins
+PoS percentage   30% per year
+Last PoW block   block 1000
+Min. stake age   6 hours
+Max. stake age   Unlimited
+Coinbase maturity  15 blocks
+Target spacing   60 seconds
+Target timespan   1 block
+Transaction confirmations 6 blocks
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
+NODEs
+ 
+198.50.242.159:41590
 
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of AnimalityCoin.
-
-Feature branches are created when there are major new features being
-worked on by several people.
-
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
