@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About ANT</source>
-        <translation>O ANTe</translation>
+        <source>About AnimalityCoin</source>
+        <translation>O AnimalityCoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;ANT&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;ANTu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;AnimalityCoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;AnimalityCoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The ANT developers</source>
+Copyright © 2014 The AnimalityCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The ANT developers</translation>
+Copyright © 2014 The AnimalityCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your ANT addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše ANT adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your AnimalityCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše AnimalityCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a ANT address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto ANT adresu</translation>
+        <source>Sign a message to prove you own a AnimalityCoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto AnimalityCoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified ANT address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou ANT adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified AnimalityCoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou AnimalityCoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>ANT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>ANT sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>AnimalityCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>AnimalityCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about ANT</source>
-        <translation>Zobraziť informácie o ANT</translation>
+        <source>Show information about AnimalityCoin</source>
+        <translation>Zobraziť informácie o AnimalityCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a ANT address</source>
-        <translation>Poslať mince na ANT adresu</translation>
+        <source>Send coins to a AnimalityCoin address</source>
+        <translation>Poslať mince na AnimalityCoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for ANT</source>
-        <translation>Upraviť možnosti konfigurácie pre ANT</translation>
+        <source>Modify configuration options for AnimalityCoin</source>
+        <translation>Upraviť možnosti konfigurácie pre AnimalityCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>ANT</source>
-        <translation>ANT</translation>
+        <source>AnimalityCoin</source>
+        <translation>AnimalityCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About ANT</source>
-        <translation>&amp;O ANT</translation>
+        <source>&amp;About AnimalityCoin</source>
+        <translation>&amp;O AnimalityCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>ANT client</source>
-        <translation>ANT klient</translation>
+        <source>AnimalityCoin client</source>
+        <translation>AnimalityCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to ANT network</source>
-        <translation><numerusform>%n aktívne spojenie s ANT sieťov</numerusform><numerusform>%n aktívnych spojení s ANT sieťov</numerusform><numerusform>%n aktívnych spojení s ANT sieťou</numerusform></translation>
+        <source>%n active connection(s) to AnimalityCoin network</source>
+        <translation><numerusform>%n aktívne spojenie s AnimalityCoin sieťov</numerusform><numerusform>%n aktívnych spojení s AnimalityCoin sieťov</numerusform><numerusform>%n aktívnych spojení s AnimalityCoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid ANT address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou ANT adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid AnimalityCoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou AnimalityCoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. ANT can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. ANT už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. AnimalityCoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. AnimalityCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid ANT address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou ANT adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AnimalityCoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou AnimalityCoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>ANT-Qt</source>
-        <translation>ANT-Qt</translation>
+        <source>AnimalityCoin-Qt</source>
+        <translation>AnimalityCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start ANT after logging in to the system.</source>
-        <translation>Automaticky spustiť ANT po prihlásení sa do systému.</translation>
+        <source>Automatically start AnimalityCoin after logging in to the system.</source>
+        <translation>Automaticky spustiť AnimalityCoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ANT on system login</source>
-        <translation>&amp;Spustiť ANT pri prihlásení do systému</translation>
+        <source>&amp;Start AnimalityCoin on system login</source>
+        <translation>&amp;Spustiť AnimalityCoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the ANT client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta ANT na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the AnimalityCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta AnimalityCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the ANT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti ANT cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the AnimalityCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti AnimalityCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ANT.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní ANT.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AnimalityCoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní AnimalityCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show ANT addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť ANT adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show AnimalityCoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť AnimalityCoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting ANT.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní ANT.</translation>
+        <source>This setting will take effect after restarting AnimalityCoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní AnimalityCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ANT network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou ANT po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnimalityCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou AnimalityCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the ANT-Qt help message to get a list with possible ANT command-line options.</source>
-        <translation>Zobraziť ANT-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku ANT.</translation>
+        <source>Show the AnimalityCoin-Qt help message to get a list with possible AnimalityCoin command-line options.</source>
+        <translation>Zobraziť AnimalityCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku AnimalityCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>ANT - Debug window</source>
-        <translation>ANT - Ladiace okno</translation>
+        <source>AnimalityCoin - Debug window</source>
+        <translation>AnimalityCoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>ANT Core</source>
-        <translation>Jadro ANT</translation>
+        <source>AnimalityCoin Core</source>
+        <translation>Jadro AnimalityCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the ANT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte ANT súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the AnimalityCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte AnimalityCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the ANT RPC console.</source>
-        <translation>Vitajte v konzole ANT RPC.</translation>
+        <source>Welcome to the AnimalityCoin RPC console.</source>
+        <translation>Vitajte v konzole AnimalityCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte ANT adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte AnimalityCoin adresu (napr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid ANT address</source>
-        <translation>UPOZORNENIE: Neplatná ANT adresa</translation>
+        <source>WARNING: Invalid AnimalityCoin address</source>
+        <translation>UPOZORNENIE: Neplatná AnimalityCoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1899,8 +1899,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa pre poslanie platby (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adresa pre poslanie platby (napr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte ANT adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte AnimalityCoin adresu (napr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1953,8 +1953,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa na podpísanie správy (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adresa na podpísanie správy (napr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ANT address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto ANT adresu</translation>
+        <source>Sign the message to prove you own this AnimalityCoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto AnimalityCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2017,13 +2017,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa správy bola podpísaná (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adresa správy bola podpísaná (napr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified ANT address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou ANT adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified AnimalityCoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou AnimalityCoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte ANT adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte AnimalityCoin adresu (napr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter ANT signature</source>
-        <translation>Zadajte ANT podpis</translation>
+        <source>Enter AnimalityCoin signature</source>
+        <translation>Zadajte AnimalityCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2248,8 +2248,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 5 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generované mince musia zrieť 5 blokov pred tým, než môžu byť použité. Keď sa vygeneroval tento blok, bol vysielaný do siete, kde má byť pridaný do reťazca blokov. Ak sa nepodarí dostať ho do reťazca blokov, jeho stav sa zmení na &quot;Neprijatý&quot;, a nebude použiteľný. Toto sa môže občas stať, ak iný uzol generuje blok v priebehu niekoľkých sekúnd pred Vami.</translation>
+        <source>Generated coins must mature 15 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Generované mince musia zrieť 15 blokov pred tým, než môžu byť použité. Keď sa vygeneroval tento blok, bol vysielaný do siete, kde má byť pridaný do reťazca blokov. Ak sa nepodarí dostať ho do reťazca blokov, jeho stav sa zmení na &quot;Neprijatý&quot;, a nebude použiteľný. Toto sa môže občas stať, ak iný uzol generuje blok v priebehu niekoľkých sekúnd pred Vami.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>ANT version</source>
-        <translation>ANT verzia</translation>
+        <source>AnimalityCoin version</source>
+        <translation>AnimalityCoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vulcanod</source>
-        <translation>Pošli príkaz na -server alebo vulcanod</translation>
+        <source>Send command to -server or animalitycoind</source>
+        <translation>Pošli príkaz na -server alebo animalitycoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vulcano.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: vulcano.conf)</translation>
+        <source>Specify configuration file (default: animalitycoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: animalitycoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vulcanod.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: vulcanod.pid)</translation>
+        <source>Specify pid file (default: animalitycoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: animalitycoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2674,8 +2674,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 21041 or testnet: 31041)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 21041 alebo testovacia sieť: 31041)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 41589 or testnet: 51589)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 41589 alebo testovacia sieť: 51589)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2734,8 +2734,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 21042 or testnet: 31042)</source>
-        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 21042 alebo testovaciasieť: 31042)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 41590 or testnet: 51590)</source>
+        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 41590 alebo testovaciasieť: 51590)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ANT will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny ANT nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AnimalityCoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny AnimalityCoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=vulcanorpc
+rpcuser=animalitycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AnimalityCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=vulcanorpc
+rpcuser=animalitycoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;AnimalityCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com</
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  ANT is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. ANT už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  AnimalityCoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. AnimalityCoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>ANT</source>
-        <translation>ANT</translation>
+        <source>AnimalityCoin</source>
+        <translation>AnimalityCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com</
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ANT</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu ANT</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AnimalityCoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu AnimalityCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart ANT to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte ANT k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart AnimalityCoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte AnimalityCoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com</
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. ANT is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. ANT je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. AnimalityCoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. AnimalityCoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

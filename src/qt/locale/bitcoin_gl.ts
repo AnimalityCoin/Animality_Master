@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About ANT</source>
-        <translation>Acerca de ANT</translation>
+        <source>About AnimalityCoin</source>
+        <translation>Acerca de AnimalityCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;ANT&lt;/b&gt; version</source>
-        <translation>Versión &lt;b&gt;ANT&lt;/b&gt; .</translation>
+        <source>&lt;b&gt;AnimalityCoin&lt;/b&gt; version</source>
+        <translation>Versión &lt;b&gt;AnimalityCoin&lt;/b&gt; .</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The ANT developers</source>
+Copyright © 2014 The AnimalityCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your ANT addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son as túas dIreccións de ANT para recibir os pagos. Pode que quieras asignarlle unha a cada remitente e así reconocer quen te está a pagar.</translation>
+        <source>These are your AnimalityCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son as túas dIreccións de AnimalityCoin para recibir os pagos. Pode que quieras asignarlle unha a cada remitente e así reconocer quen te está a pagar.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a ANT address</source>
-        <translation>Firma a mensaxe para probar que tes unha dirección ANT</translation>
+        <source>Sign a message to prove you own a AnimalityCoin address</source>
+        <translation>Firma a mensaxe para probar que tes unha dirección AnimalityCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified ANT address</source>
-        <translation>Verifica a mensaxe para asegurar que foi asinada por unha concreta dirección de ANT</translation>
+        <source>Verify a message to ensure it was signed with a specified AnimalityCoin address</source>
+        <translation>Verifica a mensaxe para asegurar que foi asinada por unha concreta dirección de AnimalityCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="-58"/>
-        <source>ANT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>ANT pecharase agora para rematar o proceso de encriptación. Recorda que encriptar a túa carteira non te protexe na totalidade do roubo das tuas moedas por infeccións de malware no teu ordenador.</translation>
+        <source>AnimalityCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>AnimalityCoin pecharase agora para rematar o proceso de encriptación. Recorda que encriptar a túa carteira non te protexe na totalidade do roubo das tuas moedas por infeccións de malware no teu ordenador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about ANT</source>
-        <translation>Amosa información sobre ANT</translation>
+        <source>Show information about AnimalityCoin</source>
+        <translation>Amosa información sobre AnimalityCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a ANT address</source>
-        <translation>Enviar moedas a unha dirección ANT</translation>
+        <source>Send coins to a AnimalityCoin address</source>
+        <translation>Enviar moedas a unha dirección AnimalityCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for ANT</source>
-        <translation>Modificar opcións de configuración para ANT</translation>
+        <source>Modify configuration options for AnimalityCoin</source>
+        <translation>Modificar opcións de configuración para AnimalityCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="-200"/>
-        <source>ANT</source>
-        <translation>ANT</translation>
+        <source>AnimalityCoin</source>
+        <translation>AnimalityCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About ANT</source>
-        <translation>&amp;Sobre ANT</translation>
+        <source>&amp;About AnimalityCoin</source>
+        <translation>&amp;Sobre AnimalityCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>ANT client</source>
-        <translation>Cliente ANT</translation>
+        <source>AnimalityCoin client</source>
+        <translation>Cliente AnimalityCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to ANT network</source>
-        <translation><numerusform>%n conexión activa á red de ANT</numerusform><numerusform>%n conexións activas á red de ANT</numerusform></translation>
+        <source>%n active connection(s) to AnimalityCoin network</source>
+        <translation><numerusform>%n conexión activa á red de AnimalityCoin</numerusform><numerusform>%n conexións activas á red de AnimalityCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,7 +657,7 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid ANT address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid AnimalityCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -717,7 +717,7 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. ANT can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. AnimalityCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1037,7 +1037,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid ANT address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid AnimalityCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1056,8 +1056,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>ANT-Qt</source>
-        <translation>ANT-Qt</translation>
+        <source>AnimalityCoin-Qt</source>
+        <translation>AnimalityCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1129,12 +1129,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start ANT after logging in to the system.</source>
+        <source>Automatically start AnimalityCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ANT on system login</source>
+        <source>&amp;Start AnimalityCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1154,7 +1154,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the ANT client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the AnimalityCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1164,7 +1164,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the ANT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the AnimalityCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,7 +1239,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ANT.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting AnimalityCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1254,7 +1254,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show ANT addresses in the transaction list or not.</source>
+        <source>Whether to show AnimalityCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1301,7 +1301,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting ANT.</source>
+        <source>This setting will take effect after restarting AnimalityCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1320,7 +1320,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ANT network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnimalityCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1536,7 +1536,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the ANT-Qt help message to get a list with possible ANT command-line options.</source>
+        <source>Show the AnimalityCoin-Qt help message to get a list with possible AnimalityCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1556,12 +1556,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>ANT - Debug window</source>
+        <source>AnimalityCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>ANT Core</source>
+        <source>AnimalityCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1571,7 +1571,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the ANT debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the AnimalityCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1581,7 +1581,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the ANT RPC console.</source>
+        <source>Welcome to the AnimalityCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1740,7 +1740,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1840,7 +1840,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid ANT address</source>
+        <source>WARNING: Invalid AnimalityCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1884,7 +1884,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to  (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1914,7 +1914,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1938,7 +1938,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to sign the message with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1975,7 +1975,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ANT address</source>
+        <source>Sign the message to prove you own this AnimalityCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2002,12 +2002,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address the message was signed with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified ANT address</source>
+        <source>Verify the message to ensure it was signed with the specified AnimalityCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2018,7 +2018,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2028,7 +2028,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter ANT signature</source>
+        <source>Enter AnimalityCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2233,7 +2233,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 5 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <source>Generated coins must mature 15 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2599,7 +2599,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>ANT version</source>
+        <source>AnimalityCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2609,7 +2609,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vulcanod</source>
+        <source>Send command to -server or animalitycoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2629,12 +2629,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vulcano.conf)</source>
+        <source>Specify configuration file (default: animalitycoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vulcanod.pid)</source>
+        <source>Specify pid file (default: animalitycoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2659,7 +2659,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 21041 or testnet: 31041)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 41589 or testnet: 51589)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2719,7 +2719,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 21042 or testnet: 31042)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 41590 or testnet: 51590)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2784,7 +2784,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ANT will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AnimalityCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2973,13 +2973,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=vulcanorpc
+rpcuser=animalitycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AnimalityCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3105,12 +3105,12 @@ for example: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  ANT is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  AnimalityCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>ANT</source>
+        <source>AnimalityCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3145,12 +3145,12 @@ for example: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ANT</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of AnimalityCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart ANT to complete</source>
+        <source>Wallet needed to be rewritten: restart AnimalityCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,7 +3220,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. ANT is probably already running.</source>
+        <source>Unable to bind to %s on this computer. AnimalityCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

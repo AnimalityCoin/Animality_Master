@@ -82,7 +82,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // NovaCoin: check prefix
-    if(uri.scheme() != QString("vulcano"))
+    if(uri.scheme() != QString("animalitycoin"))
         return false;
 
     SendCoinsRecipient rv;
@@ -127,13 +127,13 @@ bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 
 bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 {
-    // Convert vulcano:// to vulcano:
+    // Convert animalitycoin:// to animalitycoin:
     //
     //    Cannot handle this later, because bitcoin:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("vulcano://"))
+    if(uri.startsWith("animalitycoin://"))
     {
-        uri.replace(0, 12, "vulcano:");
+        uri.replace(0, 12, "animalitycoin:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -359,7 +359,7 @@ boost::filesystem::path static GetAutostartDir()
 
 boost::filesystem::path static GetAutostartFilePath()
 {
-    return GetAutostartDir() / "vulcano.desktop";
+    return GetAutostartDir() / "animalitycoin.desktop";
 }
 
 bool GetStartOnSystemStartup()
@@ -424,7 +424,7 @@ HelpMessageBox::HelpMessageBox(QWidget *parent) :
     header = tr("AnimalityCoin-Qt") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
-        "  vulcano-qt [" + tr("command-line options") + "]                     " + "\n";
+        "  animalitycoin-qt [" + tr("command-line options") + "]                     " + "\n";
 
     coreOptions = QString::fromStdString(HelpMessage());
 

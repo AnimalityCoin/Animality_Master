@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About ANT</source>
-        <translation>O ANT</translation>
+        <source>About AnimalityCoin</source>
+        <translation>O AnimalityCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;ANT&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;ANT&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;AnimalityCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;AnimalityCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The ANT developers</source>
+Copyright © 2014 The AnimalityCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your ANT addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši ANT naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your AnimalityCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši AnimalityCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a ANT address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva ANT naslova</translation>
+        <source>Sign a message to prove you own a AnimalityCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva AnimalityCoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified ANT address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim ANT naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified AnimalityCoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim AnimalityCoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>ANT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>ANT se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>AnimalityCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>AnimalityCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about ANT</source>
-        <translation>Pokaži informacije o ANT</translation>
+        <source>Show information about AnimalityCoin</source>
+        <translation>Pokaži informacije o AnimalityCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a ANT address</source>
-        <translation>Pošlji kovance na ANT naslov</translation>
+        <source>Send coins to a AnimalityCoin address</source>
+        <translation>Pošlji kovance na AnimalityCoin naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for ANT</source>
-        <translation>Spremeni nastavitve za ANT</translation>
+        <source>Modify configuration options for AnimalityCoin</source>
+        <translation>Spremeni nastavitve za AnimalityCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>ANT</source>
-        <translation>ANT</translation>
+        <source>AnimalityCoin</source>
+        <translation>AnimalityCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About ANT</source>
-        <translation>&amp;O ANT</translation>
+        <source>&amp;About AnimalityCoin</source>
+        <translation>&amp;O AnimalityCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>ANT client</source>
-        <translation>ANT program</translation>
+        <source>AnimalityCoin client</source>
+        <translation>AnimalityCoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to ANT network</source>
-        <translation><numerusform>%n aktivne povezave na ANT omrežje</numerusform><numerusform>%n aktivnih povezav na ANT omrežje</numerusform><numerusform>%n aktivnih povezav na ANT omrežje</numerusform><numerusform>%n aktivnih povezav na ANT omrežje</numerusform></translation>
+        <source>%n active connection(s) to AnimalityCoin network</source>
+        <translation><numerusform>%n aktivne povezave na AnimalityCoin omrežje</numerusform><numerusform>%n aktivnih povezav na AnimalityCoin omrežje</numerusform><numerusform>%n aktivnih povezav na AnimalityCoin omrežje</numerusform><numerusform>%n aktivnih povezav na AnimalityCoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid ANT address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega ANT naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid AnimalityCoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega AnimalityCoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. ANT can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program ANT se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. AnimalityCoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program AnimalityCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid ANT address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven ANT naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AnimalityCoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven AnimalityCoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>ANT-Qt</source>
-        <translation>ANT-Qt</translation>
+        <source>AnimalityCoin-Qt</source>
+        <translation>AnimalityCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start ANT after logging in to the system.</source>
-        <translation>Avtomatično zaženi ANT ob zagonu sistema.</translation>
+        <source>Automatically start AnimalityCoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi AnimalityCoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ANT on system login</source>
-        <translation>&amp;Zaženi ANT ob prijavi v sistem</translation>
+        <source>&amp;Start AnimalityCoin on system login</source>
+        <translation>&amp;Zaženi AnimalityCoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the ANT client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za ANT program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the AnimalityCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za AnimalityCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the ANT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na ANT omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the AnimalityCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na AnimalityCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ANT.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu ANT aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AnimalityCoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu AnimalityCoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show ANT addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza ANT naslovov v seznamu transakcij.</translation>
+        <source>Whether to show AnimalityCoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza AnimalityCoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting ANT.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu ANT aplikacije</translation>
+        <source>This setting will take effect after restarting AnimalityCoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu AnimalityCoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ANT network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z ANT omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnimalityCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z AnimalityCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the ANT-Qt help message to get a list with possible ANT command-line options.</source>
-        <translation>Prikaži ANT-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice ANT aplikacije</translation>
+        <source>Show the AnimalityCoin-Qt help message to get a list with possible AnimalityCoin command-line options.</source>
+        <translation>Prikaži AnimalityCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice AnimalityCoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>ANT - Debug window</source>
-        <translation>ANT - okno za odpravljanje napak</translation>
+        <source>AnimalityCoin - Debug window</source>
+        <translation>AnimalityCoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>ANT Core</source>
-        <translation>ANT jedro</translation>
+        <source>AnimalityCoin Core</source>
+        <translation>AnimalityCoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the ANT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri ANT datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the AnimalityCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri AnimalityCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the ANT RPC console.</source>
-        <translation>Dobrodošli v ANT RPC konzoli.</translation>
+        <source>Welcome to the AnimalityCoin RPC console.</source>
+        <translation>Dobrodošli v AnimalityCoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite ANT naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite AnimalityCoin naslov (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid ANT address</source>
-        <translation>OPOZORILO: Neveljaven ANT naslov</translation>
+        <source>WARNING: Invalid AnimalityCoin address</source>
+        <translation>OPOZORILO: Neveljaven AnimalityCoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1898,8 +1898,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov kamor želite poslati plačilo (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Naslov kamor želite poslati plačilo (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite ANT naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite AnimalityCoin naslov (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1952,8 +1952,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov s katerim želite podpisati sporočilo (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Naslov s katerim želite podpisati sporočilo (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ANT address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva ANT naslova</translation>
+        <source>Sign the message to prove you own this AnimalityCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva AnimalityCoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2016,13 +2016,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified ANT address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim ANT naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified AnimalityCoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim AnimalityCoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ANT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite ANT naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AnimalityCoin address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite AnimalityCoin naslov (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter ANT signature</source>
-        <translation>Vnesite ANT podpis</translation>
+        <source>Enter AnimalityCoin signature</source>
+        <translation>Vnesite AnimalityCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2247,8 +2247,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 5 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Ustvarjeni kovanci morajo zoreti 5 blokov preden so lahko potrošeni. Ko ustvarite ta blok, je predvajan po mreži in nanizan v verigo blokov. Če mu priključitev na verigo spodleti, se bo njegovo stanje spremenilo v &quot;ni sprejet&quot; in ne bo razpoložljiv. To se lahko občasno zgodi, če drugo vozlišče ustvari blok par sekund pred vami. </translation>
+        <source>Generated coins must mature 15 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Ustvarjeni kovanci morajo zoreti 15 blokov preden so lahko potrošeni. Ko ustvarite ta blok, je predvajan po mreži in nanizan v verigo blokov. Če mu priključitev na verigo spodleti, se bo njegovo stanje spremenilo v &quot;ni sprejet&quot; in ne bo razpoložljiv. To se lahko občasno zgodi, če drugo vozlišče ustvari blok par sekund pred vami. </translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>ANT version</source>
-        <translation>ANT različica</translation>
+        <source>AnimalityCoin version</source>
+        <translation>AnimalityCoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,7 +2623,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vulcanod</source>
+        <source>Send command to -server or animalitycoind</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2643,13 +2643,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vulcano.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: vulcano.conf)</translation>
+        <source>Specify configuration file (default: animalitycoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: animalitycoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vulcanod.pid)</source>
-        <translation>Določi pid datoteko (privzeto: vulcano.pid)</translation>
+        <source>Specify pid file (default: animalitycoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: animalitycoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2673,8 +2673,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 21041 or testnet: 31041)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 21041 ali testnet: 31041) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 41589 or testnet: 51589)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 41589 ali testnet: 51589) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2733,8 +2733,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 21042 or testnet: 31042)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 21041 ali testnet: 31041) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 41590 or testnet: 51590)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 41589 ali testnet: 51589) </translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ANT will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno ANT ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AnimalityCoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno AnimalityCoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=vulcanorpc
+rpcuser=animalitycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ANT Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AnimalityCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=vulcanorpc
+rpcuser=animalitycoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;ANT Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;AnimalityCoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;ANT Alarm&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  ANT is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija ANT je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  AnimalityCoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija AnimalityCoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>ANT</source>
-        <translation>ANT</translation>
+        <source>AnimalityCoin</source>
+        <translation>AnimalityCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;ANT Alarm&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ANT</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo ANT</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AnimalityCoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo AnimalityCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart ANT to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite ANT za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart AnimalityCoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite AnimalityCoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;ANT Alarm&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. ANT is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča ANT aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. AnimalityCoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča AnimalityCoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

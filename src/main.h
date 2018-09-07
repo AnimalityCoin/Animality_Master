@@ -28,17 +28,10 @@ class CNode;
 
 class CTxMemPool;
 
-/*static const int LAST_POW_BLOCK = 60000;*/ /* ANTY */
-
-static const int LAST_POW_BLOCK_V1 = 10000;
-static const int POW_RE_ENABLE = 10001;  
-// static const int LAST_POW_BLOCK = 1000000000;
-
-static const unsigned int FORK_TIME = 1520571289;
-static const unsigned int FORK_TIME_2 = 1520613000;
+static const int LAST_POW_BLOCK = 1000;
 
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
-static const unsigned int MAX_BLOCK_SIZE = 2000000;
+static const unsigned int MAX_BLOCK_SIZE = 1000000;
 /** The maximum size for mined blocks */
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
 /** The maximum size for transactions we're willing to relay/mine **/
@@ -54,20 +47,20 @@ static const int64_t MIN_TX_FEE = 10000;
 /** Fees smaller than this (in satoshi) are considered zero fee (for relaying) */
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 /** No amount larger than this (in satoshi) is valid */
-static const int64_t MAX_MONEY = 280000000 * COIN; /* Suply ANTY */
+static const int64_t MAX_MONEY = 285000000 * COIN;
 inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
 /** Threshold for nLockTime: below this value it is interpreted as block number, otherwise as UNIX timestamp. */
 static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 
-static const int64_t COIN_YEAR_REWARD = 100 * CENT; /* ANTY */
+static const int64_t COIN_YEAR_REWARD = 30 * CENT;
 
-static const uint256 hashGenesisBlock("0x0000073cf25d252e2d460f50ad9e989b70af0922414a857b7ed40d0fff13736e");
-static const uint256 hashGenesisBlockTestNet("0x0000073cf25d252e2d460f50ad9e989b70af0922414a857b7ed40d0fff13736e");
+static const uint256 hashGenesisBlock("0x000008e3eed1fc949f0477ca7d43b85554bb7d92bd0a6c4dfea8c5648d12e3fe");
+static const uint256 hashGenesisBlockTestNet("0x000008e3eed1fc949f0477ca7d43b85554bb7d92bd0a6c4dfea8c5648d12e3fe");
 
-inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } /* ANTY */
-inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } /* ANTY */
+inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } // up to 10 minutes from the past
+inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } // up to 10 minutes from the future
 
-extern libzerocoin::Params* ZCParamsnNonce;
+extern libzerocoin::Params* ZCParams;
 extern CScript COINBASE_FLAGS;
 extern CCriticalSection cs_main;
 extern std::map<uint256, CBlockIndex*> mapBlockIndex;
@@ -126,8 +119,8 @@ bool LoadExternalBlockFile(FILE* fileIn);
 
 bool CheckProofOfWork(uint256 hash, unsigned int nBits);
 unsigned int GetNextTargetRequired(const CBlockIndex* pindexLast, bool fProofOfStake);
-int64_t GetProofOfWorkReward(int nHeight, int64_t nFees);
-int64_t GetProofOfStakeReward(int nHeight, int64_t nCoinAge, int64_t nFees);
+int64_t GetProofOfWorkReward(int64_t nFees);
+int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees);
 unsigned int ComputeMinWork(unsigned int nBase, int64_t nTime);
 unsigned int ComputeMinStake(unsigned int nBase, int64_t nTime, unsigned int nBlockTime);
 int GetNumBlocksOfPeers();
@@ -1551,6 +1544,11 @@ public:
         return pindex->nHeight;
     }
 };
+
+
+
+
+
 
 
 

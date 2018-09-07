@@ -1872,8 +1872,8 @@ static CScript CombineSignatures(CScript scriptPubKey, const CTransaction& txTo,
         else
         {
             // Recur to combine:
-            valtype anty = sigs1.back();
-            CScript pubKey2(anty.begin(), anty.end());
+            valtype spk = sigs1.back();
+            CScript pubKey2(spk.begin(), spk.end());
 
             txnouttype txType2;
             vector<vector<unsigned char> > vSolutions2;
@@ -1881,7 +1881,7 @@ static CScript CombineSignatures(CScript scriptPubKey, const CTransaction& txTo,
             sigs1.pop_back();
             sigs2.pop_back();
             CScript result = CombineSignatures(pubKey2, txTo, nIn, txType2, vSolutions2, sigs1, sigs2);
-            result << anty;
+            result << spk;
             return result;
         }
     case TX_MULTISIG:

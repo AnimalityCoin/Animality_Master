@@ -1,16 +1,1 @@
-AnimalityCoin is an innovative money disbursement system that aims to generate demand growth through it's unique and dynamic blocks rewards.
-
-Name: AnimalityCoin
-Ticker: ANTY
-Algorithm: Scrypt
-Type: POW / POS
-Maximum money: 280 Milhões (280.000.000)
-Premine: [12%] 30 million (30,000,000)
-Block reward	100 coins
-Last PoW block	block 60000
-PoS percentage	30% per year
-rpc port=37756
-Block Time: 2 min till
-Minimum stake age: 6 hours 
-Coinbase maturity: 10 confirmations
-Max block size: 2000000
+README.md

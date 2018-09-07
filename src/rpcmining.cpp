@@ -20,13 +20,7 @@ Value getsubsidy(const Array& params, bool fHelp)
             "getsubsidy [nTarget]\n"
             "Returns proof-of-work subsidy value for the specified value of target.");
 
-    int nShowHeight;
-    if (params.size() > 0)
-        nShowHeight = atoi(params[0].get_str());
-    else
-        nShowHeight = nBestHeight+1; // block currently being solved
-    
-return (uint64_t)GetProofOfWorkReward(nShowHeight, 0);
+    return (uint64_t)GetProofOfWorkReward(0);
 }
 
 Value getmininginfo(const Array& params, bool fHelp)
@@ -49,7 +43,7 @@ Value getmininginfo(const Array& params, bool fHelp)
     diff.push_back(Pair("search-interval",      (int)nLastCoinStakeSearchInterval));
     obj.push_back(Pair("difficulty",    diff));
 
-    obj.push_back(Pair("blockvalue",    (uint64_t)GetProofOfWorkReward(nBestHeight+1, 0)));
+    obj.push_back(Pair("blockvalue",    (uint64_t)GetProofOfWorkReward(0)));
     obj.push_back(Pair("netmhashps",     GetPoWMHashPS()));
     obj.push_back(Pair("netstakeweight", GetPoSKernelPS()));
     obj.push_back(Pair("errors",        GetWarnings("statusbar")));
@@ -109,12 +103,12 @@ Value getworkex(const Array& params, bool fHelp)
         );
 
     if (vNodes.empty())
-        throw JSONRPCError(-9, "animalitycoin is not connected!");
+        throw JSONRPCError(-9, "AnimalityCoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(-10, "animalitycoin is downloading blocks...");
+        throw JSONRPCError(-10, "AnimalityCoin is downloading blocks...");
 
-    if (pindexBest->nHeight >= LAST_POW_BLOCK_V1 && pindexBest->nHeight < POW_RE_ENABLE)
+    if (pindexBest->nHeight >= LAST_POW_BLOCK)
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");
 
     typedef map<uint256, pair<CBlock*, CScript> > mapNewBlock_t;
@@ -243,12 +237,12 @@ Value getwork(const Array& params, bool fHelp)
             "If [data] is specified, tries to solve the block and returns true if it was successful.");
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "animalitycoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "AnimalityCoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "animalitycoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "AnimalityCoin is downloading blocks...");
 
-    if (pindexBest->nHeight >= LAST_POW_BLOCK_V1 && pindexBest->nHeight < POW_RE_ENABLE)
+    if (pindexBest->nHeight >= LAST_POW_BLOCK)
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");
 
     typedef map<uint256, pair<CBlock*, CScript> > mapNewBlock_t;
@@ -387,12 +381,12 @@ Value getblocktemplate(const Array& params, bool fHelp)
         throw JSONRPCError(RPC_INVALID_PARAMETER, "Invalid mode");
 
     if (vNodes.empty())
-        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "animalitycoin is not connected!");
+        throw JSONRPCError(RPC_CLIENT_NOT_CONNECTED, "AnimalityCoin is not connected!");
 
     if (IsInitialBlockDownload())
-        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "animalitycoin is downloading blocks...");
+        throw JSONRPCError(RPC_CLIENT_IN_INITIAL_DOWNLOAD, "AnimalityCoin is downloading blocks...");
 
-    if (pindexBest->nHeight >= LAST_POW_BLOCK_V1 && pindexBest->nHeight < POW_RE_ENABLE)
+    if (pindexBest->nHeight >= LAST_POW_BLOCK)
         throw JSONRPCError(RPC_MISC_ERROR, "No more PoW blocks");
 
     static CReserveKey reservekey(pwalletMain);
@@ -531,5 +525,4 @@ Value submitblock(const Array& params, bool fHelp)
 
     return Value::null;
 }
-
 
