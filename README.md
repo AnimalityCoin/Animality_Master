@@ -28,7 +28,5 @@ Target spacing   60 seconds
 Target timespan   1 block
 Transaction confirmations 6 blocks
 
-NODEs
- 
-198.50.242.159:41590
+
 
